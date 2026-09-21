@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <rect width="600" height="300" rx="18" fill="#0d1117"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" fill="#c9d1d9">
+    <g stroke="#30363d" fill="#161b22">
+      <rect x="24" y="28" width="135" height="38" rx="8"/><rect x="24" y="78" width="135" height="38" rx="8"/>
+      <rect x="24" y="128" width="135" height="38" rx="8"/><rect x="24" y="178" width="135" height="38" rx="8"/>
+      <rect x="24" y="228" width="135" height="38" rx="8"/>
+      <rect x="232" y="58" width="135" height="38" rx="8"/><rect x="232" y="108" width="135" height="38" rx="8"/>
+      <rect x="232" y="158" width="135" height="38" rx="8"/><rect x="232" y="208" width="135" height="38" rx="8"/>
+      <rect x="435" y="108" width="140" height="80" rx="10"/>
+    </g>
+    <text x="91" y="52" text-anchor="middle">GitHub</text><text x="91" y="102" text-anchor="middle">Notion</text>
+    <text x="91" y="152" text-anchor="middle">Slack</text><text x="91" y="202" text-anchor="middle">Figma</text>
+    <text x="91" y="252" text-anchor="middle">Linear</text>
+    <text x="299" y="82" text-anchor="middle">Analyze</text><text x="299" y="132" text-anchor="middle">Rank</text>
+    <text x="299" y="182" text-anchor="middle">Filter</text><text x="299" y="232" text-anchor="middle">Compare</text>
+    <text x="505" y="142" text-anchor="middle" fill="#58a6ff" font-weight="700">Best-fit MCP</text>
+    <text x="505" y="166" text-anchor="middle">servers</text>
+  </g>
+  <g stroke="#58a6ff" stroke-width="2" fill="none">
+    <path d="M159 47H205V77H232"/><path d="M159 97H205V127H232"/><path d="M159 147H232"/>
+    <path d="M159 197H205V177H232"/><path d="M159 247H205V227H232"/>
+    <path d="M367 77H402V148H435"/><path d="M367 127H435"/><path d="M367 177H435"/><path d="M367 227H402V148"/>
+  </g>
+</svg>

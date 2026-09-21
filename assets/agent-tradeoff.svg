@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <rect width="600" height="300" rx="18" fill="#0d1117"/>
+  <g stroke="#30363d" stroke-width="2"><line x1="70" y1="238" x2="430" y2="238"/><line x1="70" y1="238" x2="70" y2="35"/></g>
+  <g fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14">
+    <text x="248" y="270">Lower cost / latency →</text><text x="22" y="145" transform="rotate(-90 22 145)">Capability / quality →</text>
+  </g>
+  <g>
+    <circle cx="145" cy="190" r="8" fill="#f2cc60"/><circle cx="190" cy="125" r="8" fill="#58a6ff"/>
+    <circle cx="235" cy="170" r="8" fill="#39d353"/><circle cx="285" cy="92" r="8" fill="#58a6ff"/>
+    <circle cx="325" cy="145" r="8" fill="#d2a8ff"/><circle cx="372" cy="72" r="8" fill="#ff7b72"/>
+    <circle cx="398" cy="120" r="8" fill="#58a6ff"/>
+  </g>
+  <rect x="452" y="40" width="125" height="190" rx="10" fill="#161b22" stroke="#30363d"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" fill="#c9d1d9">
+    <text x="468" y="70" fill="#58a6ff" font-weight="700">Compare</text>
+    <text x="468" y="100">Models</text><text x="468" y="128">Agents</text><text x="468" y="156">Cost</text>
+    <text x="468" y="184">Latency</text><text x="468" y="212">Quality</text>
+  </g>
+</svg>
