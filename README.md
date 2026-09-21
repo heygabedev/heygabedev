@@ -88,36 +88,52 @@ OpenAPI-to-production connector platform that turns third-party APIs into normal
 
 🔒 **Selected private work — details available on request.**
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ German Regulatory & Market Intelligence Platform
+<strong>🏛️ German Regulatory & Market Intelligence Platform</strong><br><br>
 Automated research platform that gathers live market data, continuously updates German federal and Bundesland regulations, and turns them into structured business intelligence and decision support.
 
-### 📊 SignalDesk — Lead & Hiring Intelligence Platform
-Purpose-built for a real recruiting workflow. Monitors job boards and company signals, gathers and scores leads from multiple sources, and supports targeted outreach and tracking.
+</td>
+<td width="50%" valign="top">
 
-### 🧠 Neurovault
+<strong>📱 Soma — Commerce, Booking & Client Platform</strong><br><br>
+Full-stack web and mobile product for selling services, scheduling bookings, processing payments and managing clients, with cloud deployment.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>📊 SignalDesk — Lead & Hiring Intelligence Platform</strong><br><br>
+Built for a real recruiting workflow. Monitors job boards and company signals, gathers and scores leads from multiple sources, and supports targeted outreach and tracking.
+
+</td>
+<td width="50%" valign="top">
+
+<strong>👹 Token Goblin</strong><br><br>
+LLM token-usage and cost-analysis tool for tracking model usage across projects, surfacing spend patterns, budgets and optimization opportunities.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>🧠 Neurovault</strong><br><br>
 Multi-agent engineering system that routes feature work through planning, implementation, QA/security and documentation agents, with reusable pipelines, evaluation tooling and observability.
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Soma — Commerce, Booking & Client Platform
-Full-stack web and mobile product for selling services, scheduling bookings, processing payments and managing clients, with cloud deployment.
-
-### 👹 Token Goblin
-LLM token-usage and cost-analysis tool for tracking model usage across projects, surfacing spend patterns, budgets and optimization opportunities.
-
-### 👁️ Computer Vision Classification Pipeline
-Transfer-learning CNN pipeline for custom image classification, covering dataset preparation, augmentation, training, evaluation and inference, achieving **95% accuracy** on a custom dataset.
+<strong>👁️ Product Image Classification System</strong><br><br>
+Transfer-learning computer vision pipeline for automatically categorizing product images, covering dataset preparation, augmentation, training, evaluation and inference, achieving <strong>95% accuracy</strong> on a custom dataset.
 
 </td>
 </tr>
 </table>
 
-<p align="center"><strong>…and more</strong> — additional AI, backend, data and automation projects available on request.</p>
+<p align="center"><strong>...and more</strong> — additional AI, backend, data and automation projects available on request.</p>
 
 ---
 
